@@ -4,7 +4,7 @@ gem 'rails', '4.2.0'
 gem 'sass-rails', '~> 5.0'
 gem 'pg'
 
-gem 'bcrypt', '~> 3.1.7'
+gem 'password_encryptor', '1.0.1'
 
 group :development, :test do
   gem 'spring'
